@@ -1,0 +1,20 @@
+Bienvenue sur SenMoney
+Choisissez votre numéro :
+#221#
+Langue :
+Historique
+Vider l'historique
+Entrez votre code de sécurité :
+Votre solde est de
+Code incorrect !
+Entrez le numéro destinataire :
+Montant à transférer :
+Numéro invalide !
+Transfert réussi !
+Solde insuffisant !
+Service non disponible.
+Tapez le numéro du service choisi :
+Solde de mon compte
+Transfert d'argent
+Paiement de facture
+Options

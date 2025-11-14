@@ -1,0 +1,20 @@
+Dalal ak jàmm ci SenMoney
+Tànn sa numéro :
+#221#
+Làkk :
+Jaar-jaar yi
+Tàq jaar-jaar yi
+Dugal sa code bu kaaraange :
+Sa solde mooy
+Code bi baaxul !
+Dugal numéro bu nga bëg a jottal :
+Lëf gi nga bëg a jottal :
+Numéro bi baaxul !
+Jottal bi am na ndam !
+Solde bi doyul !
+Sarwiis bi amul.
+Tànn limu sarwiis bi nga bëg :
+Solde bi
+Jottal xaalis
+Fattal faktuur
+Tann yi

@@ -1,0 +1,20 @@
+Welcome to SenMoney
+Choose your number:
+#221#
+Language:
+History
+Clear history
+Enter your security code:
+Your balance is
+Incorrect code!
+Enter recipient number:
+Amount to transfer:
+Invalid number!
+Transfer successful!
+Insufficient balance!
+Service not available.
+Enter the number of the service you want:
+Check balance
+Send money
+Pay a bill
+OPtions
